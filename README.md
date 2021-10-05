@@ -1,2 +1,2 @@
 # Positive Thoughts Mozilla addon
-Chrome Extension to get Motivational Quotoes
+Mozilla addon to get Motivational Quotoes
