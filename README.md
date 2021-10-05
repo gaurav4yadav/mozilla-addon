@@ -1,2 +1,2 @@
-# Dad-Jokes-Chrome-Extension
+# Positive Thoughts Mozilla addon
 Chrome Extension to get Motivational Quotoes
