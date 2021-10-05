@@ -1,0 +1,27 @@
+
+
+p {
+    display: inner-flex;
+    margin: auto 10px;
+    background-color:cornsilk ;
+    font-size: 15px;
+    color:black;
+    border-radius: 6px;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+body{
+
+    border-radius: 7px;
+    border-style: solid;
+    border-color: lightgrey;
+    margin:10px;
+    box-shadow: 6px;
+    width: 300px;
+    height:fit-content;
+    background-color:white;  
+   
+   
+    justify-content: center;
+}
